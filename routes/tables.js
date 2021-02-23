@@ -1,0 +1,2 @@
+exports.table = 'table';
+
